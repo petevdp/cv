@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/pete/.local/share/virtualenvs/cv-CsYl3c43/bin/python
 
 """Generates LaTeX, markdown, and plaintext copies of my cv."""
 

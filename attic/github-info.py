@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-#
+#!/home/pete/.local/share/virtualenvs/cv-CsYl3c43/bin/python
+
 # github-info.py
 # Gets info from Github for my CV.
 #
